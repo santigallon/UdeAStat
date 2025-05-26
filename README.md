@@ -1,6 +1,6 @@
 #UdeAStay - Sistema de Gestión de Alojamientos
 
-![Escudo UdeA](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/EscudoUdeA.svg/1200px-EscudoUdeA.svg.png)
+![Escudo UdeA](https://www.udea.edu.co/wps/portal/udea/web/inicio/somos-udea/empleados/gestion-organizacion/banco-recursos-multimedia/!ut/p/z1/lZBBDoIwEEXP4gk6baHAshSsFVIogmA3hpUhUXRhPL_EuEEi4uwmef9N5iOLGmT79tGd2nt37dvzsB8sO2rjxpgISMErBBhTFjIsCU0kRfUL8ANBMHcGQKsIOKOVKFUKABTZ__IJdoGbONdlJvJoS5bl4ctwWJafAey8vkZ2fEJmew_Mzo-VyyOsfe8TgA1eg8kYYVyEPibwBuY6HBsyRWMwgXZzKhVxPDoxTFv89cftUlVVA53q1OoJYvqUNA!!/?1dmy&urile=wcm%3Apath%3A/PortalUdeA/asPortalUdeA/asHomeUdeA/asSomosUdeA/empleados/Gesti%21c3%21b3n+y+organizaci%21c3%21b3n/Banco+de+recursos+multimedia/Contenido/asMenuLateral/logosimbolo-udea)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 *Proyecto académico* desarrollado para el curso de *Informática II* en la *Universidad de Antioquia*, semestre 2025-1.
