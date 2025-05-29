@@ -96,3 +96,4 @@ Facultad de Ingeniería - Universidad de Antioquia
 Andes, Colombia - 2025
 ```
 
+![image](https://github.com/user-attachments/assets/2a78c89a-75e4-4e3e-8b62-cab442333689)
